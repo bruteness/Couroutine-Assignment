@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: 11e670a3afa06cc47b7942f050e132bc
   - enabled: 1
-    path: Assets/Scenes/Scene2.unity
-    guid: 13455bb3b56ba2c499eda576549ecdee
+    path: Assets/Fantasy Forest Environment Free Sample/Scenes/demoScene_free.unity
+    guid: 7769f33fb4fa2e5458344a36556ad760
   m_configObjects: {}
