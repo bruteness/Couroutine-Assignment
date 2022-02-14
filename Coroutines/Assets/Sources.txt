@@ -1,0 +1,4 @@
+Sources:
+ TypeText - https://unitycoder.com/blog/2015/12/03/ui-text-typewriter-effect-script/ @author mgear
+ MoveTowards - class instruction @author Professor Summers
+ LoadLevel - https://www.youtube.com/watch?v=YMj2qPq9CP8&ab_channel=Brackeys @author Brackeys
