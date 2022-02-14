@@ -35,3 +35,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+*Coroutines/Library
+*Coroutines/Logs
+*Coroutines/Temp
