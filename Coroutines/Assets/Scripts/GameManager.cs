@@ -13,14 +13,12 @@ public class GameManager : MonoBehaviour
     }
     void Update()
     {
-        if(Input.GetKey(KeyCode.Space))
+        if(Input.GetKey(KeyCode.Space) && !moveTowards.IsMoving)
         {
-            moveTowards.resettingChar = false;
             StartCoroutine(moveTowards.MoveCharacter());
         }
         else if(Input.GetKey(KeyCode.E))
         {
-            moveTowards.resettingChar = true;
             moveTowards.ResetCharacter();
         }
     }
